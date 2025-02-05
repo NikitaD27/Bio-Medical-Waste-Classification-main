@@ -17,7 +17,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/username/project-name.git  
+git clone https://github.com/NikitaD27/Bio-Medical_waste-Classification-main.git  
 cd project-name  
 2. Import Necessary Libraries
 Ensure all required libraries are imported into your Python environment. The requirements.txt file contains all dependencies.
