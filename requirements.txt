@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+opencv-python
+gradio
+numpy
+pillow
+pandas
+matplotlib
+gitpython
+seaborn
+urllib3
